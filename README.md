@@ -1,5 +1,5 @@
-# campus-event-registration-
-# [Project Title]
+# campus-event-registration
+# [Campus Event Registration] example only
 
 [One sentence: what problem does this project solve, and for whom?]
 
